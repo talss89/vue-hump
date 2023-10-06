@@ -4,6 +4,18 @@
   "description": "Utility to mount Vue 3 apps into existing markup. Supports passing props via HTML attributes, without using the template compiler.",
   "main": "lib/index.js",
   "type": "module",
+  "keywords": [
+    "Vue 3",
+    "VueJS"
+  ],
+  "homepage": "https://github.com/talss89/vue-hump",
+  "bugs": {
+    "url": "https://github.com/talss89/vue-hump/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talss89/vue-hump.git"
+  },
   "scripts": {
     "test": "bud build && jest"
   },
