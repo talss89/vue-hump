@@ -1,0 +1,26 @@
+{
+  "name": "vue-hump",
+  "version": "0.0.1",
+  "description": "Utility to mount Vue 3 apps into existing markup. Supports passing props via HTML attributes, without using the template compiler.",
+  "main": "lib/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "bud build && jest"
+  },
+  "author": "Tom Lawton <tom.lawton@cndu.it>",
+  "license": "MIT",
+  "peerDependencies": {
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.22.20",
+    "@babel/preset-typescript": "^7.23.0",
+    "@roots/bud": "^6.17.0",
+    "@types/expect-puppeteer": "^5.0.4",
+    "@types/jest": "^29.5.5",
+    "expect-puppeteer": "^9.0.1",
+    "jest": "^29.7.0",
+    "jest-puppeteer": "^9.0.1",
+    "ts-node": "^10.9.1"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "shim.js": "js/shim.js",
+  "runtime.js": "js/runtime.js",
+  "entrypoints.json": "entrypoints.json"
+}

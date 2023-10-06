@@ -1,0 +1,8 @@
+{
+  "shim": {
+    "js": [
+      "js/runtime.js",
+      "js/shim.js"
+    ]
+  }
+}
