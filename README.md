@@ -1,5 +1,9 @@
 # vue-hump
 
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/talss89/vue-hump/node.js.yml)
+![npm](https://img.shields.io/npm/v/vue-hump)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftalss89%2Fvue-hump%2Fmain%2Fpackage.json&query=peerDependencies.vue&logo=vue.js&logoColor=white&label=vue.js)
+
 Tiny utility to mount Vue 3 apps into existing markup. Supports passing props via HTML attributes, without using the template compiler.
 
 This is useful when using Vue to augment a traditional server-side application, like WordPress.
